@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Bryan Labchuk — Cyber Security",
-  description: "Cyber security professional. Security assessment, incident response, and building defenses that last.",
+  description: "Cybersecurity & IT consulting. M365, Azure, AWS, DevSecOps, ICS controls, ISO 27000, NIST, ITSG-33. Risk assessment, governance, and training.",
 };
 
 export default function RootLayout({
