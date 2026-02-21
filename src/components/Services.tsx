@@ -1,5 +1,15 @@
 const services = [
   {
+    title: "Home network & device security",
+    items: [
+      "For VIPs, creators, and anyone with high public exposure",
+      "Hardening phones, laptops, tablets — devices and OS settings",
+      "App security and safe use habits (social, DMs, accounts)",
+      "Home WiFi and router hardening; IoT and smart home security",
+      "Phishing and social engineering awareness — you get targeted",
+    ],
+  },
+  {
     title: "Cloud security & DevSecOps",
     items: [
       "Hardening M365, Azure, and AWS",

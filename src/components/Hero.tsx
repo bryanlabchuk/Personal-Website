@@ -11,7 +11,7 @@ export function Hero() {
           Cybersecurity & IT Consulting
         </p>
         <p className="mb-10 text-stone-500">
-          M365, Azure, AWS, DevSecOps, ICS controls, ISO 27000, NIST, ITSG-33
+          Home network & device security for VIPs and creators · M365, Azure, AWS, DevSecOps · ICS, ISO 27000, NIST, ITSG-33
         </p>
         <Link
           href="#contact"

@@ -4,6 +4,7 @@ import { useState } from "react";
 
 const INTEREST_OPTIONS = [
   "",
+  "Home network & device security (VIP / creator)",
   "Risk assessment",
   "Cloud security review (M365 / Azure / AWS)",
   "Compliance / framework alignment",

@@ -9,7 +9,7 @@ export function Contact() {
           Next step
         </h2>
         <p className="mb-10 text-lg leading-relaxed text-stone-400">
-          Need a risk assessment, cloud security review, or help with compliance?
+          Need home network and device hardening, a risk assessment, cloud security review, or help with compliance?
           Use the form below. I respond within a business day or two on business days.
         </p>
         <ContactForm />

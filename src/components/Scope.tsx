@@ -1,4 +1,6 @@
 const canDo = [
+  "Home network and device hardening for high-profile individuals",
+  "Hardening devices, apps, and habits — phones, laptops, smart home",
   "Risk assessments and gap analyses",
   "Control framework alignment (ISO, NIST, ITSG-33)",
   "Cloud security reviews and hardening",
