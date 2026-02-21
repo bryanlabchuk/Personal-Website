@@ -2,7 +2,7 @@ const services = [
   {
     title: "Home network & device security",
     items: [
-      "For VIPs, creators, and anyone with high public exposure",
+      "For VIPs, creators, influencers, and crisis management teams",
       "Hardening phones, laptops, tablets — devices and OS settings",
       "App security and safe use habits (social, DMs, accounts)",
       "Home WiFi and router hardening; IoT and smart home security",
